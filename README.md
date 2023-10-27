@@ -36,5 +36,3 @@ Este projeto é uma demonstração simplificada de um pipeline de ETL com foco n
 ## Autor
 
 Este projeto foi desenvolvido por William Tavares de Moura.
-
-[Bootcamp Santander Ciência de Dados com Python](https://www.santander.com.br/institucional/servicos-para-voce/educacao/bootcamps/bootcamp-santander-ciencia-de-dados-com-python)
